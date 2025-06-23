@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John David Mantienzo</h1>
 <h3 align="center">A 4th Year student in City College of San Jose del Monte</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi8&label=Profile%20views&color=0e75b6&style=flat" alt="dabi8" /> </p>
-
 - 🌱 I’m currently learning *3D Game Design*
 
 - 🤝 I’m looking for help with *3D Game*
